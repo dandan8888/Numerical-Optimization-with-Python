@@ -33,7 +33,7 @@ def plot_contours(f, xlim, ylim, title="", paths=None, labels=None, save_path=No
     plt.tight_layout(pad=0)
 
     if save_path:
-        plt.savefig(save_path, bbox_inches='tight')  
+        plt.savefig(save_path, bbox_inches='tight')
 
     plt.show()
     plt.close()
@@ -51,7 +51,7 @@ def plot_function_values(f_values_list, labels, title="", save_path=None):
     plt.grid(True)
 
     if save_path:
-        plt.savefig(save_path, bbox_inches='tight') 
+        plt.savefig(save_path, bbox_inches='tight')
 
     plt.show()
     plt.close()
