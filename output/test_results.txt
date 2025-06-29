@@ -1,0 +1,16 @@
+Figure(640x480)
+Figure(640x480)
+LP Final x: [2. 1.]
+LP Objective: 3.0
+LP Constraints values at final x: [2. 0. 0. 1.]
+Warning: inner minimization did not converge: The maximum number of function evaluations is exceeded.
+Warning: inner minimization did not converge: The maximum number of function evaluations is exceeded.
+Warning: inner minimization did not converge: The maximum number of function evaluations is exceeded.
+Warning: inner minimization did not converge: The maximum number of function evaluations is exceeded.
+Warning: inner minimization did not converge: The maximum number of function evaluations is exceeded.
+Figure(640x480)
+Figure(640x480)
+QP Final x: [0.5 0.5 0. ]
+QP Objective: 1.5
+QP Constraint sum(x): 1.0
+QP Inequality constraint values: [0.5 0.5 0. ]
